@@ -24,7 +24,7 @@ To edit a Step:
 
 ## Form Fields
 
-- **Title**. The Title for this step. Usually it is a call to action, for example 'Enter a title' if the step demands user interaction. If the title is a language key, an aditional field is shown, representing the translation of that key for the user's locale.
+- **Title**. The Title for this step. Usually it is a call to action, for example 'Enter a title' if the step demands user interaction. If the title is a language key, an additional field is shown, representing the translation of that key for the user's locale.
 
 ## Edit Step
 
