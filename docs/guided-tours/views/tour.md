@@ -128,7 +128,7 @@ At the top of the page you will see the toolbar shown in the [Screenshot](#scre
   
   1. Create one tour for each supported language.
   
-  2. 2. Create one tour only for all languages and use language keys for title and description.
+  2. Create one tour only for all languages and use language keys for title and description.
 
 - Use **GUIDEDTOUR** in language keys as a convention wherever language
    keys are used (for title and description).
