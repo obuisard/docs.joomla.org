@@ -24,7 +24,7 @@ To edit a Tour:
 
 ## Form Fields
 
-- **Title**. The Title for this tour. If the title is a language key, an aditional field is shown, representing the translation of that key for the user's locale.
+- **Title**. The Title for this tour. If the title is a language key, an additional field is shown, representing the translation of that key for the user's locale.
 
 ## Edit Tour
 
