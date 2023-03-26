@@ -6,6 +6,8 @@ This screen is used to add a new or edit an existing Tour, usually using a Wysiw
 
 A tour must include a least one step. Once a tour has been newly created, go to the tours list and select '0' from the Steps column.
 
+The first step of the tour is automatically made of the tour title and description.
+
 ## How to Access
 
 **System** -> **Manage** -> **Guided Tours**
