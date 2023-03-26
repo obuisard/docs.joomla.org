@@ -10,6 +10,14 @@ The guided tours give users the ability to complete walk-throughs (or tours) to 
 
 Enter a tour's steps screen by selecting the steps number from the Steps column.
 
+To add a Step:
+
+- Click the **New** toolbar button
+
+To edit a Step:
+
+- Select a **Title** from the list
+
 ## Screenshot
 
 ![Guided tours steps list view](assets/guidedtours_steps.png)
